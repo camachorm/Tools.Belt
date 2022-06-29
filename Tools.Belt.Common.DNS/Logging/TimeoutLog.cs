@@ -35,28 +35,33 @@ namespace Tools.Belt.Common.Logging
         public TimeSpan Timeout { get; set; }
         public TimeSpan Elapsed => _sw.Elapsed;
 
-        public void Dispose()
+        private LogLevel LoggingLevel
         {
-            if (_sw.Elapsed >= Timeout)
+            get
             {
                 switch (Level)
                 {
                     case SeverityLevel.Verbose:
-                        _logger?.LogTrace(_timeoutMessage);
-                        break;
+                        return LogLevel.Trace;
                     case SeverityLevel.Information:
-                        _logger?.LogInformation(_timeoutMessage);
-                        break;
+                        return LogLevel.Information;
                     case SeverityLevel.Warning:
-                        _logger?.LogWarning(_timeoutMessage);
-                        break;
+                        return LogLevel.Warning;
                     case SeverityLevel.Error:
-                        _logger?.LogError(_timeoutMessage);
-                        break;
+                        return LogLevel.Error;
                     case SeverityLevel.Critical:
-                        _logger?.LogCritical(_timeoutMessage);
-                        break;
+                        return LogLevel.Critical;
+                    default:
+                        return LogLevel.Information;
                 }
+            }
+        }
+
+        public void Dispose()
+        {
+            if (_sw.Elapsed >= Timeout)
+            {
+                _logger?.Log(LoggingLevel, _timeoutMessage);
             }
         }
     }

@@ -1,7 +1,7 @@
 ﻿using McMaster.Extensions.CommandLineUtils;
 using Microsoft.Extensions.Logging;
 
-namespace Tools.Belt.Common.Logging
+namespace Tools.Belt.Common.Logging.Cli
 {
     public class CliLogger<TCategoryName> : CliLogger, ICliLogger<TCategoryName>
     {

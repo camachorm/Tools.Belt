@@ -15,5 +15,11 @@ namespace Tools.Belt.Common.Logging
             using LoggerFactory factory = new LoggerFactory();
             return factory.CreateLogger<T>();
         }
+
+        public static ILogger<T> CreateObjectLogger<T>(this T source)
+        {
+            using LoggerFactory factory = new LoggerFactory();
+            return factory.CreateLogger<T>();
+        }
     }
 }

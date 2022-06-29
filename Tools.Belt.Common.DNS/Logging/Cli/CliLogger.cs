@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Logging;
 using System;
 
-namespace Tools.Belt.Common.Logging
+namespace Tools.Belt.Common.Logging.Cli
 {
     public class CliLogger : ICliLogger
     {
