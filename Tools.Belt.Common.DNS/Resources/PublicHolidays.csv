@@ -1,0 +1,526 @@
+Date,Description
+29/03/2002,Good Friday
+01/01/2002,New Years Day
+01/04/2002,Easter Monday
+03/06/2002,Spring Bank Holiday
+26/08/2002,Late Summer Holiday
+25/12/2002,Christmas Day
+26/12/2002,Boxing Day
+04/06/2002,Jubilee Holiday
+06/05/2002,May Day
+01/01/2003,New Years Day
+18/04/2003,Good Friday
+21/04/2003,Easter Monday
+05/05/2003,Early May Bank Holiday
+26/05/2003,Spring Bank Holiday
+25/08/2003,Summer Bank Holiday
+25/12/2003,Christmas Day
+26/12/2003,Boxing Day
+01/01/2004,New Years Day
+09/04/2004,Good Friday
+12/04/2004,Easter Monday
+03/05/2004,Early May Bank Holiday
+31/05/2004,Spring Bank Holiday
+30/08/2004,Summer Bank Holiday
+25/12/2004,Christmas Day
+26/12/2004,Boxing Day
+27/12/2004,Substitute Bank Holiday in lieu of 26th
+28/12/2004,Substitute Bank Holiday in lieu of 25th
+03/01/2005,New Years Day
+25/03/2005,Good Friday
+28/03/2005,Easter Monday
+02/05/2005,Early May Bank Holiday
+30/05/2005,Spring Bank Holiday
+29/08/2005,Summer Bank Holiday
+25/12/2005,Christmas Day
+26/12/2005,Boxing Day
+27/12/2005,Substitute Bank Holiday in lieu of 25th
+27/12/2002,Extra Day Holiday
+02/01/2004,BRS Company Holiday
+31/12/2003,PayrollBodgeDay-enable BACSfile 2be sent on 24/12
+02/01/2006,New Years Day
+14/04/2006,Good Friday
+17/04/2006,Easter Monday
+01/05/2006,Early May Bank Holiday
+29/05/2006,Spring Bank Holiday
+28/08/2006,Summer Bank Holiday
+25/12/2006,Christmas Day
+26/12/2006,Boxing Day
+01/01/2007,New Years Day
+06/04/2007,Good Friday
+09/04/2007,Easter Monday
+07/05/2007,Early May Bank Holiday
+28/05/2007,Spring Bank Holiday
+27/08/2007,Summer Bank Holiday
+25/12/2007,Christmas Day
+26/12/2007,Boxing Day
+01/01/2008,New Years Day
+21/03/2008,Good Friday
+24/03/2008,Easter Monday
+05/05/2008,Early May Bank Holiday
+26/05/2008,Spring Bank Holiday
+25/08/2008,Summer Bank Holiday
+25/12/2008,Christmas Day
+26/12/2008,Boxing Day
+24/12/2007,Company Holiday
+01/01/2009,New Years Day
+10/04/2009,Good Friday
+13/04/2009,Easter Monday
+04/05/2009,Early May Bank Holiday
+25/05/2009,Spring Bank Holiday
+31/08/2009,Summer Bank Holiday
+25/12/2009,Christmas Day
+28/12/2009,Boxing Day
+01/01/2010,New Years Day
+02/04/2010,Good Friday
+05/04/2010,Easter Monday
+03/05/2010,Early May Bank Holiday
+31/05/2010,Spring Bank Holiday
+30/08/2010,Summer Bank Holiday
+27/12/2010,Christmas Day
+28/12/2010,Boxing Day
+03/01/2011,New Years Day
+22/04/2011,Good Friday
+25/04/2011,Easter Monday
+02/05/2011,Early May Bank Holiday
+30/05/2011,Spring Bank Holiday
+29/08/2011,Summer Bank Holiday
+26/12/2011,Boxing Day
+27/12/2011,Christmas Day
+29/04/2011,Royal Wedding
+02/01/2012,New Year's Day
+06/04/2012,Good Friday
+09/04/2012,Easter Monday
+07/05/2012,Early May Bank Holiday
+04/06/2012,Spring Bank Holiday
+05/06/2012,Queen's Diamond Jubilee
+27/08/2012,Summer Bank Holiday
+25/12/2012,Christmas Day
+26/12/2012,Boxing Day
+01/01/2013,New Year's Day
+29/03/2013,Good Friday
+01/04/2013,Easter Monday
+06/05/2013,Early May Bank Holiday
+27/05/2013,Spring Bank Holiday
+26/08/2013,Summer Bank Holiday
+25/12/2013,Christmas Day
+26/12/2013,Boxing Day
+24/12/2012,Christmas Eve
+01/01/2014,New Year's Day
+18/04/2014,Good Friday
+21/04/2014,Easter Monday
+05/05/2014,Early May Bank Holiday
+26/05/2014,Spring Bank Holiday
+25/08/2014,Summer Bank Holiday
+25/12/2014,Christmas Day
+26/12/2014,Boxing Day
+01/01/2015,New Year's Day
+03/04/2015,Good Friday
+06/04/2015,Easter Monday
+04/05/2015,Early May Bank Holiday
+25/05/2015,Spring Bank Holiday
+31/08/2015,Summer Bank Holiday
+25/12/2015,Christmas Day
+28/12/2015,Boxing Day
+24/12/2014,Christmas Eve
+24/12/2015,Christmas Eve
+01/01/2016,New Year's Day
+25/03/2016,Good Friday
+28/03/2016,Easter Monday
+02/05/2016,Early May Bank Holiday
+30/05/2016,Spring Bank Holiday
+29/08/2016,Summer Bank Holiday
+26/12/2016,Boxing Day
+27/12/2016,Christmas Day (substitute day)
+02/01/2017,New Year's Day (substitute day)
+14/04/2017,Good Friday
+17/04/2017,Easter Monday
+01/05/2017,Early May Bank Holiday
+29/05/2017,Spring Bank Holiday
+28/08/2017,Summer Bank Holiday
+25/12/2017,Christmas Day
+26/12/2017,Boxing Day
+01/01/2018,New Year's Day
+30/03/2018,Good Friday
+02/04/2018,Easter Monday
+07/05/2018,Early May Bank Holiday
+28/05/2018,Spring Bank Holiday
+27/08/2018,Summer Bank Holiday
+25/12/2018,Christmas Day
+26/12/2018,Boxing Day
+01/01/2019,New Year's Day
+19/04/2019,Good Friday
+22/04/2019,Easter Monday
+06/05/2019,Early May Bank Holiday
+27/05/2019,Spring Bank Holiday
+26/08/2019,Summer Bank Holiday
+25/12/2019,Christmas Day
+26/12/2019,Boxing Day
+01/01/2020,New Year's Day
+10/04/2020,Good Friday
+13/04/2020,Easter Monday
+08/05/2020,Early May Bank Holiday
+25/05/2020,Spring Bank Holiday
+31/08/2020,Summer Bank Holiday
+25/12/2020,Christmas Day
+28/12/2020,Boxing Day (substitute day)
+01/01/2021,New Year's Day
+02/04/2021,Good Friday
+05/04/2021,Easter Monday
+03/05/2021,Early May Bank Holiday
+31/05/2021,Spring Bank Holiday
+30/08/2021,Summer Bank Holiday
+27/12/2021,Christmas Day (Substitute)
+28/12/2021,Boxing Day (Substitute)
+03/01/2022,New Year's Day (Substitute)
+15/04/2022,Good Friday
+18/04/2022,Easter Monday
+02/05/2022,Early May Bank Holiday
+30/05/2022,Spring Bank Holiday
+29/08/2022,Summer Bank Holiday
+26/12/2022,Christmas Day (Substitute)
+27/12/2022,Boxing Day (Substitute)
+02/01/2023,New Year's Day (Substitute)
+07/04/2023,Good Friday
+10/04/2023,Easter Monday
+01/05/2023,Early May Bank Holiday
+29/05/2023,Spring Bank Holiday
+28/08/2023,Summer Bank Holiday
+25/12/2023,Christmas Day
+26/12/2023,Boxing Day
+01/01/2024,New Year's Day
+29/03/2024,Good Friday
+01/04/2024,Easter Monday
+06/05/2024,Early May Bank Holiday
+27/05/2024,Spring Bank Holiday
+26/08/2024,Summer Bank Holiday
+25/12/2024,Christmas Day
+26/12/2024,Boxing Day
+01/01/2025,New Year's Day
+18/04/2025,Good Friday
+21/04/2025,Easter Monday
+05/05/2025,Early May Bank Holiday
+26/05/2025,Spring Bank Holiday
+25/08/2025,Summer Bank Holiday
+25/12/2025,Christmas Day
+26/12/2025,Boxing Day
+01/01/2026,New Year's Day
+03/04/2026,Good Friday
+06/04/2026,Easter Monday
+04/05/2026,Early May Bank Holiday
+25/05/2026,Spring Bank Holiday
+31/08/2026,Summer Bank Holiday
+25/12/2026,Christmas Day
+28/12/2026,Boxing Day (Substitute)
+01/01/2027,New Year's Day
+26/03/2027,Good Friday
+29/03/2027,Easter Monday
+03/05/2027,Early May Bank Holiday
+31/05/2027,Spring Bank Holiday
+30/08/2027,Summer Bank Holiday
+27/12/2027,Christmas Day (Substitute)
+28/12/2027,Boxing Day (Substitute)
+03/01/2028,New Year's Day (Substitute)
+14/04/2028,Good Friday
+17/04/2028,Easter Monday
+01/05/2028,Early May Bank Holiday
+29/05/2028,Spring Bank Holiday
+28/08/2028,Summer Bank Holiday
+25/12/2028,Christmas Day
+26/12/2028,Boxing Day
+01/01/2029,New Year's Day
+30/03/2029,Good Friday
+02/04/2029,Easter Monday
+07/05/2029,Early May Bank Holiday
+28/05/2029,Spring Bank Holiday
+27/08/2029,Summer Bank Holiday
+25/12/2029,Christmas Day
+26/12/2029,Boxing Day
+01/01/2030,New Year's Day
+19/04/2030,Good Friday
+22/04/2030,Easter Monday
+06/05/2030,Early May Bank Holiday
+27/05/2030,Spring Bank Holiday
+26/08/2030,Summer Bank Holiday
+25/12/2030,Christmas Day
+26/12/2030,Boxing Day
+01/01/2031,New Year's Day
+11/04/2031,Good Friday
+14/04/2031,Easter Monday
+05/05/2031,Early May Bank Holiday
+26/05/2031,Spring Bank Holiday
+25/08/2031,Summer Bank Holiday
+25/12/2031,Christmas Day
+26/12/2031,Boxing Day
+01/01/2032,New Year's Day
+26/03/2032,Good Friday
+29/03/2032,Easter Monday
+03/05/2032,Early May Bank Holiday
+31/05/2032,Spring Bank Holiday
+30/08/2032,Summer Bank Holiday
+27/12/2032,Christmas Day (Substitute)
+28/12/2032,Boxing Day (Substitute)
+03/01/2033,New Year's Day (Substitute)
+15/04/2033,Good Friday
+18/04/2033,Easter Monday
+02/05/2033,Early May Bank Holiday
+30/05/2033,Spring Bank Holiday
+29/08/2033,Summer Bank Holiday
+26/12/2033,Christmas Day (Substitute)
+27/12/2033,Boxing Day (Substitute)
+02/01/2034,New Year's Day (Substitute)
+07/04/2034,Good Friday
+10/04/2034,Easter Monday
+01/05/2034,Early May Bank Holiday
+29/05/2034,Spring Bank Holiday
+28/08/2034,Summer Bank Holiday
+25/12/2034,Christmas Day
+26/12/2034,Boxing Day
+01/01/2035,New Year's Day
+23/03/2035,Good Friday
+26/03/2035,Easter Monday
+07/05/2035,Early May Bank Holiday
+28/05/2035,Spring Bank Holiday
+27/08/2035,Summer Bank Holiday
+25/12/2035,Christmas Day
+26/12/2035,Boxing Day
+01/01/2036,New Year's Day
+11/04/2036,Good Friday
+14/04/2036,Easter Monday
+05/05/2036,Early May Bank Holiday
+26/05/2036,Spring Bank Holiday
+25/08/2036,Summer Bank Holiday
+25/12/2036,Christmas Day
+26/12/2036,Boxing Day
+01/01/2037,New Year's Day
+03/04/2037,Good Friday
+06/04/2037,Easter Monday
+04/05/2037,Early May Bank Holiday
+25/05/2037,Spring Bank Holiday
+31/08/2037,Summer Bank Holiday
+25/12/2037,Christmas Day
+28/12/2037,Boxing Day (Substitute)
+01/01/2038,New Year's Day
+23/04/2038,Good Friday
+26/04/2038,Easter Monday
+03/05/2038,Early May Bank Holiday
+31/05/2038,Spring Bank Holiday
+30/08/2038,Summer Bank Holiday
+27/12/2038,Christmas Day (Substitute)
+28/12/2038,Boxing Day (Substitute)
+03/01/2039,New Year's Day (Substitute)
+08/04/2039,Good Friday
+11/04/2039,Easter Monday
+02/05/2039,Early May Bank Holiday
+30/05/2039,Spring Bank Holiday
+29/08/2039,Summer Bank Holiday
+26/12/2039,Christmas Day (Substitute)
+27/12/2039,Boxing Day (Substitute)
+02/01/2040,New Year's Day (Substitute)
+30/03/2040,Good Friday
+02/04/2040,Easter Monday
+07/05/2040,Early May Bank Holiday
+28/05/2040,Spring Bank Holiday
+27/08/2040,Summer Bank Holiday
+25/12/2040,Christmas Day
+26/12/2040,Boxing Day
+01/01/2041,New Year's Day
+19/04/2041,Good Friday
+22/04/2041,Easter Monday
+06/05/2041,Early May Bank Holiday
+27/05/2041,Spring Bank Holiday
+26/08/2041,Summer Bank Holiday
+25/12/2041,Christmas Day
+26/12/2041,Boxing Day
+01/01/2042,New Year's Day
+04/04/2042,Good Friday
+07/04/2042,Easter Monday
+05/05/2042,Early May Bank Holiday
+26/05/2042,Spring Bank Holiday
+25/08/2042,Summer Bank Holiday
+25/12/2042,Christmas Day
+26/12/2042,Boxing Day
+01/01/2043,New Year's Day
+27/03/2043,Good Friday
+30/03/2043,Easter Monday
+04/05/2043,Early May Bank Holiday
+25/05/2043,Spring Bank Holiday
+31/08/2043,Summer Bank Holiday
+25/12/2043,Christmas Day
+28/12/2043,Boxing Day (Substitute)
+01/01/2044,New Year's Day
+15/04/2044,Good Friday
+18/04/2044,Easter Monday
+02/05/2044,Early May Bank Holiday
+30/05/2044,Spring Bank Holiday
+29/08/2044,Summer Bank Holiday
+26/12/2044,Christmas Day (Substitute)
+27/12/2044,Boxing Day (Substitute)
+02/01/2045,New Year's Day (Substitute)
+07/04/2045,Good Friday
+10/04/2045,Easter Monday
+01/05/2045,Early May Bank Holiday
+29/05/2045,Spring Bank Holiday
+28/08/2045,Summer Bank Holiday
+25/12/2045,Christmas Day
+26/12/2045,Boxing Day
+01/01/2046,New Year's Day
+23/03/2046,Good Friday
+26/03/2046,Easter Monday
+07/05/2046,Early May Bank Holiday
+28/05/2046,Spring Bank Holiday
+27/08/2046,Summer Bank Holiday
+25/12/2046,Christmas Day
+26/12/2046,Boxing Day
+01/01/2047,New Year's Day
+12/04/2047,Good Friday
+15/04/2047,Easter Monday
+06/05/2047,Early May Bank Holiday
+27/05/2047,Spring Bank Holiday
+26/08/2047,Summer Bank Holiday
+25/12/2047,Christmas Day
+26/12/2047,Boxing Day
+01/01/2048,New Year's Day
+03/04/2048,Good Friday
+06/04/2048,Easter Monday
+04/05/2048,Early May Bank Holiday
+25/05/2048,Spring Bank Holiday
+31/08/2048,Summer Bank Holiday
+25/12/2048,Christmas Day
+28/12/2048,Boxing Day (Substitute)
+01/01/2049,New Year's Day
+16/04/2049,Good Friday
+19/04/2049,Easter Monday
+03/05/2049,Early May Bank Holiday
+31/05/2049,Spring Bank Holiday
+30/08/2049,Summer Bank Holiday
+27/12/2049,Christmas Day (Substitute)
+28/12/2049,Boxing Day (Substitute)
+03/01/2050,New Year's Day (Substitute)
+08/04/2050,Good Friday
+11/04/2050,Easter Monday
+02/05/2050,Early May Bank Holiday
+30/05/2050,Spring Bank Holiday
+29/08/2050,Summer Bank Holiday
+26/12/2050,Christmas Day (Substitute)
+27/12/2050,Boxing Day (Substitute)
+02/01/2051,New Year's Day (Substitute)
+31/03/2051,Good Friday
+03/04/2051,Easter Monday
+01/05/2051,Early May Bank Holiday
+29/05/2051,Spring Bank Holiday
+28/08/2051,Summer Bank Holiday
+25/12/2051,Christmas Day
+26/12/2051,Boxing Day
+01/01/2052,New Year's Day
+19/04/2052,Good Friday
+22/04/2052,Easter Monday
+06/05/2052,Early May Bank Holiday
+27/05/2052,Spring Bank Holiday
+26/08/2052,Summer Bank Holiday
+25/12/2052,Christmas Day
+26/12/2052,Boxing Day
+01/01/2053,New Year's Day
+04/04/2053,Good Friday
+07/04/2053,Easter Monday
+05/05/2053,Early May Bank Holiday
+26/05/2053,Spring Bank Holiday
+25/08/2053,Summer Bank Holiday
+25/12/2053,Christmas Day
+26/12/2053,Boxing Day
+01/01/2054,New Year's Day
+27/03/2054,Good Friday
+30/03/2054,Easter Monday
+04/05/2054,Early May Bank Holiday
+25/05/2054,Spring Bank Holiday
+31/08/2054,Summer Bank Holiday
+25/12/2054,Christmas Day
+28/12/2054,Boxing Day (Substitute)
+01/01/2055,New Year's Day
+16/04/2055,Good Friday
+19/04/2055,Easter Monday
+03/05/2055,Early May Bank Holiday
+31/05/2055,Spring Bank Holiday
+30/08/2055,Summer Bank Holiday
+27/12/2055,Christmas Day (Substitute)
+28/12/2055,Boxing Day (Substitute)
+03/01/2056,New Year's Day (Substitute)
+31/03/2056,Good Friday
+03/04/2056,Easter Monday
+01/05/2056,Early May Bank Holiday
+29/05/2056,Spring Bank Holiday
+28/08/2056,Summer Bank Holiday
+25/12/2056,Christmas Day
+26/12/2056,Boxing Day
+01/01/2057,New Year's Day
+20/04/2057,Good Friday
+23/04/2057,Easter Monday
+07/05/2057,Early May Bank Holiday
+28/05/2057,Spring Bank Holiday
+27/08/2057,Summer Bank Holiday
+25/12/2057,Christmas Day
+26/12/2057,Boxing Day
+01/01/2058,New Year's Day
+12/04/2058,Good Friday
+15/04/2058,Easter Monday
+06/05/2058,Early May Bank Holiday
+27/05/2058,Spring Bank Holiday
+26/08/2058,Summer Bank Holiday
+25/12/2058,Christmas Day
+26/12/2058,Boxing Day
+01/01/2059,New Year's Day
+28/03/2059,Good Friday
+31/03/2059,Easter Monday
+05/05/2059,Early May Bank Holiday
+26/05/2059,Spring Bank Holiday
+25/08/2059,Summer Bank Holiday
+25/12/2059,Christmas Day
+26/12/2059,Boxing Day
+01/01/2060,New Year's Day
+16/04/2060,Good Friday
+19/04/2060,Easter Monday
+03/05/2060,Early May Bank Holiday
+31/05/2060,Spring Bank Holiday
+30/08/2060,Summer Bank Holiday
+27/12/2060,Christmas Day (Substitute)
+28/12/2060,Boxing Day (Substitute)
+03/01/2061,New Year's Day (Substitute)
+08/04/2061,Good Friday
+11/04/2061,Easter Monday
+02/05/2061,Early May Bank Holiday
+30/05/2061,Spring Bank Holiday
+29/08/2061,Summer Bank Holiday
+26/12/2061,Christmas Day (Substitute)
+27/12/2061,Boxing Day (Substitute)
+02/01/2062,New Year's Day (Substitute)
+24/03/2062,Good Friday
+27/03/2062,Easter Monday
+01/05/2062,Early May Bank Holiday
+29/05/2062,Spring Bank Holiday
+28/08/2062,Summer Bank Holiday
+25/12/2062,Christmas Day
+26/12/2062,Boxing Day
+01/01/2063,New Year's Day
+13/04/2063,Good Friday
+16/04/2063,Easter Monday
+07/05/2063,Early May Bank Holiday
+28/05/2063,Spring Bank Holiday
+27/08/2063,Summer Bank Holiday
+25/12/2063,Christmas Day
+26/12/2063,Boxing Day
+01/01/2064,New Year's Day
+04/04/2064,Good Friday
+07/04/2064,Easter Monday
+05/05/2064,Early May Bank Holiday
+26/05/2064,Spring Bank Holiday
+25/08/2064,Summer Bank Holiday
+25/12/2064,Christmas Day
+26/12/2064,Boxing Day
+01/01/2065,New Year's Day
+27/03/2065,Good Friday
+30/03/2065,Easter Monday
+04/05/2065,Early May Bank Holiday
+25/05/2065,Spring Bank Holiday
+31/08/2065,Summer Bank Holiday
+25/12/2065,Christmas Day
+28/12/2065,Boxing Day (Substitute)

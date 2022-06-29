@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Tools.Belt.Azure.Storage.DNS": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

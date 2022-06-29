@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Ricardo Camacho</Authors>
+    <Company>Just Retirement PLC</Company>
+    <Description>This package provides a clean and easy to use wrapper for operations against Azure Storage Accounts</Description>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>Tools.Belt.Azure.Storage.snk</AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
+    <LangVersion>8</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" Version="1.1.1" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.4.4" />
+    <PackageReference Include="Corvus.Extensions" Version="1.1.0" />
+    <PackageReference Include="Microsoft.Azure.Services.AppAuthentication" Version="1.5.0" />
+    <PackageReference Include="Microsoft.Azure.Storage.Blob" Version="11.1.7" />
+    <PackageReference Include="Microsoft.Azure.Storage.Common" Version="11.1.7" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions" Version="3.0.6" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.5" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.5" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.26.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Protocols.OpenIdConnect" Version="5.5.0" />
+    <PackageReference Include="Polly" Version="7.2.1" />
+    <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tools.Belt.Azure.DNS\Tools.Belt.Azure.DNS.csproj" />
+    <ProjectReference Include="..\Tools.Belt.Common.DNS\Tools.Belt.Common.DNS.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Azure.Services.AppAuthentication">
+      <HintPath>..\..\..\Users\Ricardo Camacho\.nuget\packages\microsoft.azure.services.appauthentication\1.0.1\lib\netstandard1.4\Microsoft.Azure.Services.AppAuthentication.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Ricardo Camacho</Authors>
+    <Company>SOTAM IT Consultancy Ltd.</Company>
+    <Description>This provides a generic interface to handle uploading/downloading messages and attachments to/from servicebus and a storage account in tandem, reusable across any application that uses ServiceBus</Description>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>Tools.Belt.Azure.ServiceBus.snk</AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
+    <LangVersion>8</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AsyncEnumerator" Version="4.0.2" />
+    <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.8.1" />
+    <PackageReference Include="Microsoft.ApplicationInsights" Version="2.20.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.5" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.5" />
+    <PackageReference Include="Microsoft.AspNetCore.JsonPatch" Version="3.1.1.0" />
+    <PackageReference Include="Microsoft.Azure.Management.ServiceBus.Fluent" Version="1.34.0" />
+    <PackageReference Include="Microsoft.Azure.ServiceBus" Version="4.1.3" />
+    <PackageReference Include="Microsoft.Azure.WebJobs.Core" Version="3.0.16" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.5" />
+    <PackageReference Include="Microsoft.Rest.ClientRuntime" Version="2.3.21" />
+    <PackageReference Include="ServiceBus.AttachmentPlugin" Version="5.1.0" />
+    <PackageReference Include="System.Threading.Tasks" Version="4.3.0" />
+    <PackageReference Include="System.Threading.Tasks.Dataflow" Version="4.11.1" />
+    <PackageReference Include="System.Threading.Tasks.Extensions" Version="4.5.4" />
+    <PackageReference Include="System.Threading.Tasks.Parallel" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tools.Belt.Azure.DNS\Tools.Belt.Azure.DNS.csproj" />
+    <ProjectReference Include="..\Tools.Belt.Common.DNS\Tools.Belt.Common.DNS.csproj" />
+  </ItemGroup>
+
+</Project>
